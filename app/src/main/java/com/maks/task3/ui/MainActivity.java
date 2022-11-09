@@ -1,4 +1,4 @@
-package com.maks.task3;
+package com.maks.task3.ui;
 
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;

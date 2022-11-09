@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Task3</string>
+    <string name="app_name">Task3point1</string>
+    <string name="austria_country">Austria</string>
+    <string name="poland_country">Poland</string>
+    <string name="italy_country">Italy</string>
+    <string name="colombia_country">Colombia</string>
+    <string name="madagascar_country">Madagascar</string>
+    <string name="thailand_country">Thailand</string>
+    <string name="denmark_country">Denmark</string>
+    <string name="switzerland_country">Switzerland</string>
 </resources>
